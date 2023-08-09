@@ -24,12 +24,14 @@ nav {
 
 nav ul {
     display: flex;
+    align-items: center;
     list-style: none;
     gap: 25px;
     color: antiquewhite;
 }
 ul .edges {
     border: none;
+    padding: 10px;
     border-radius: 5px;
     background: antiquewhite;
     color: black;
